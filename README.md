@@ -20,7 +20,7 @@ A hands-on cybersecurity lab for learning Linux administration, system security,
 
 ## Status
 
-Work in progress.
+Git and GitHub workflow configured. Linux security labs coming next.
 
 ## Learning Progress
 
