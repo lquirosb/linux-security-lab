@@ -21,3 +21,13 @@ A hands-on cybersecurity lab for learning Linux administration, system security,
 ## Status
 
 Work in progress.
+
+## Learning Progress
+
+- [x] Install and configure Git
+- [x] Create a local Git repository
+- [x] Create the first commit
+- [x] Connect the repository to GitHub
+- [x] Push the main branch to GitHub
+- [ ] Learn Git branches
+- [ ] Build the first Linux security lab
